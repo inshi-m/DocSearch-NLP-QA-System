@@ -7,6 +7,7 @@ Our system leverages OpenAI embeddings and FAISS for lightning-fast similarity s
 Developed by Inshira Fatima Mateen and Maryam Saleem at Bahria University, Islamabad, under the guidance of Dr. Arif ur Rehman.
 
 **Key Features**
+
 PDF text extraction and preprocessing
 
 OpenAI embeddings for semantic understanding
